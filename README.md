@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Maryam👋
 
 ![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-blue)
 
