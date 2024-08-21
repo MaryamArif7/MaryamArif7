@@ -43,4 +43,4 @@ I’m a passionate software engineer with expertise in full-stack development. I
 
 ---
 
-⭐️ From [Your Name](https://github.com/MaryamArif7)
+⭐️ From Maryam
