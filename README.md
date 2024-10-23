@@ -2,7 +2,7 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-blue)
 
-I’m a passionate software engineer with expertise in full-stack development. I love building projects that solve real-world problems and continuously learning new technologies.
+I’m a passionate aspiring software engineer with getting expertise in full-stack development. I love building projects that solve real-world problems and continuously learning new technologies.
 
 ## 🛠 Technologies & Tools
 
