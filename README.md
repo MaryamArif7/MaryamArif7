@@ -1,46 +1,56 @@
-[Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-blue)
-
-I’m a passionate aspiring software engineer, gaining expertise in full-stack development. I love building projects that solve real-world problems and continuously learning new technologies
-## 🛠 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamArif7&hide=contribs,prs&show_icons=true&theme=radical)
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamArif7&layout=compact&theme=radical)
 
 
-## 🌱 Currently Learning
+## Hello, I'm Maryam Arif 👋
+Welcome to my personal GitHub homepage! This repository showcases my projects, skills, and interests. Feel free to explore and get to know more about me.
 
-- Full Stack Development
-- Kubernetes and container orchestration
-- Serverless architecture with AWS Lambda
+---
 
-## 💬 Get in Touch
+## About Me
 
-- [LinkedIn](https://www.linkedin.com/in/maryam-arif-dev07/)
-  
+
+I am a graduate of the University of Sialkot and an aspiring full-stack software engineer with a passion for building scalable, efficient, and impactful web and software applications. Equipped with a strong foundation in front-end and back-end technologies, I strive to deliver seamless user experiences and robust system architectures.
+
+Driven by curiosity and a problem-solving mindset, my journey into programming began with a deep fascination for how technology shapes our daily lives. This passion has fueled my exploration of diverse programming languages, frameworks, and tools, enabling me to create dynamic web applications, interactive user interfaces, and scalable backend systems.
 
 
 ---
 
-⭐️ From Maryam
+## Projects
+Take a look at some of my projects:
+
+- **Pizza Rush**: Satisfy your cravings with our pizza ordering app featuring a beautiful UI, fast delivery options, and a backend-supported menu management system.
+- **MERN E-Commerce Platform**: An end-to-end e-commerce website featuring product categories, order management, and secure payments.
+
+---
+
+## Skills
+**Programming Languages:** JavaScript,Java
+
+**Frameworks and Technologies:** React, Next.js, Node.js, Express, Tailwind CSS, Redux Toolkit 
+
+**Databases:** Firebase, MongoDB, MySQL,
+
+**DevOps and Tools:** AWS, Docker, Jenkins, Git
+
+
+---
+
+## Get in Touch
+I am open to collaborations, freelance opportunities, and connecting with like-minded individuals. Feel free to reach out to me via email at **maryamarif1306@gmail.com** or connect with me on LinkedIn. Let's create something awesome together!
+
+---
+
+## Let's Connect
+You can also find me on:
+- [LinkedIn](https://www.linkedin.com/in/maryam-arif-dev07/)
+ 
+
+Thank you for visiting my GitHub homepage. I look forward to connecting with you!
+
+
+
+
+
 
 
 
