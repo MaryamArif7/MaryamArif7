@@ -18,8 +18,8 @@ Driven by curiosity and a problem-solving mindset, my journey into programming b
 ## Projects
 Take a look at some of my projects:
 
-- **Pizza Rush**: Satisfy your cravings with our pizza ordering app featuring a beautiful UI, fast delivery options, and a backend-supported menu management system.
-- **MERN E-Commerce Platform**: An end-to-end e-commerce website featuring product categories, order management, and secure payments.
+- **Pizza Rush(https://github.com/MaryamArif7/Pizza-Rush)**: Satisfy your cravings with our pizza ordering app featuring a beautiful UI, fast delivery options, and a backend-supported menu management system.
+- **Stock-Check(https://github.com/MaryamArif7/StockCheck)**: A pantry management site
 
 ---
 
