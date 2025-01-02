@@ -28,7 +28,7 @@ Take a look at some of my projects:
 
 **Frameworks and Technologies:** React, Next.js, Node.js, Express, Tailwind CSS, Redux Toolkit 
 
-**Databases:** Firebase, MongoDB, MySQL,
+**Databases:** PostgresSql, MongoDB, MySQL,
 
 **DevOps and Tools:** AWS, Docker, Jenkins, Git
 
