@@ -1,4 +1,5 @@
 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamArif7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)
 
 ## Hello, I'm Maryam Arif 👋
 Welcome to my personal GitHub homepage! This repository showcases my projects, skills, and interests. Feel free to explore and get to know more about me.
