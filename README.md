@@ -1,4 +1,4 @@
-## Hello, I'm Maryam Arif 👋
+## Hello, I'm Maryam 👋
 Welcome to my personal GitHub homepage! This repository showcases my projects, skills, and interests. Feel free to explore and get to know more about me.
 
 ---
