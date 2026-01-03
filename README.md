@@ -1,45 +1,17 @@
-## Hello, I'm Maryam 👋
-Welcome to my personal GitHub homepage! This repository showcases my projects, skills, and interests. Feel free to explore and get to know more about me.
+# Hey there! 👋
 
----
+I'm Maryam,web developer based in Pakistan.I recently graduated from the University of Sialkot and I'm passionate about creating software that makes a real impact. I enjoy working on both the frontend and backend, bringing ideas to life through clean code and thoughtful design.
 
-## About Me
+What drives me? Curiosity and problem-solving. I started coding because I was fascinated by how technology shapes our world, and that excitement keeps me learning and building new things every day.
 
+## What I Work With
 
-I am a graduate of the University of Sialkot and an aspiring full-stack software engineer with a passion for building scalable, efficient, and impactful web and software applications. Equipped with a strong foundation in front-end and back-end technologies, I strive to deliver seamless user experiences and robust system architectures.
+**Languages:** JavaScript, Java
 
-Driven by curiosity and a problem-solving mindset, my journey into programming began with a deep fascination for how technology shapes our daily lives. This passion has fueled my exploration of diverse programming languages, frameworks, and tools, enabling me to create dynamic web applications, interactive user interfaces, and scalable backend systems.
+**Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit
 
+**Backend:** Node.js, Express
 
-
----
-
-## Skills
-**Programming Languages:** JavaScript,Java
-
-**Frameworks and Technologies:** React, Next.js, Node.js, Express, Tailwind CSS, Redux Toolkit 
-
-**Databases:** PostgresSql, MongoDB, MySQL,
-
-**DevOps and Tools:** AWS, Docker, Jenkins, Git
-
-
----
-
-## Get in Touch
-I am open to collaborations, freelance opportunities, and connecting with like-minded individuals. Feel free to reach out to me via email at **maryamarif1306@gmail.com** or connect with me on LinkedIn. Let's create something awesome together!
-- [LinkedIn](https://www.linkedin.com/in/maryam-arif7/)
- 
-
-
-
-
-
-
-
-
-
-
-
+**Databases:** PostgreSQL, MongoDB, MySQL
 
 
